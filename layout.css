@@ -64,6 +64,7 @@
 .top_nav {
   border: 2px solid red;
   height: 35px;
+  display: none;
 }
 
 #sub_nav li a {
